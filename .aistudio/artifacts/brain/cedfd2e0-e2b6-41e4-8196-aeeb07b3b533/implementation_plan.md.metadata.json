@@ -1,0 +1,6 @@
+{
+  "summary":  "Comprehensive Vyapar-inspired retail and restaurant architecture blueprint and deep technical specification. Details the conflict resolution decision tree for offline concurrency, local storage engine (SQLite + IndexedDB abstraction), outbox sync SLAs with exponential backoff and manager escalation, Khata FIFO payment allocation, recipe BOM compensating reversals, and hardware abstraction layer (Indic ESC/POS rasterization, Serial weighing scales, sub-10ms barcode cache).",
+  "updatedAt":  "2026-10-26T15:42:05.702924219Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

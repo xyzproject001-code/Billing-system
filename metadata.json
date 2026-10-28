@@ -1,0 +1,6 @@
+{
+  "name": "HI Scale - Smart Multi-Tenant POS & Billing OS",
+  "description": "Industrial-grade offline-first multi-tenant SaaS POS and billing system by HI Scale with Tanglish search, loose-weight calculator, KOT, and GST compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
